@@ -1,0 +1,1 @@
+[05-Oct-2017 03:21:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/setsasol/public_html/demostracionventas/model/Conexion.php on line 3
